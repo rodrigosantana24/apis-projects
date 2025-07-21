@@ -11,4 +11,4 @@ characters = fetch_data("character", {'name': 'Rick'})
 if characters:
     print(characters)
 else:
-    print("Failed.")
+    print("Falhou.")
